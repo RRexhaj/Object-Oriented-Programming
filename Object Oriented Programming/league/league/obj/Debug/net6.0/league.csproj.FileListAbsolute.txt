@@ -1,0 +1,15 @@
+C:\Users\Amjad\Desktop\league\league\obj\Debug\net6.0\league.csproj.AssemblyReference.cache
+C:\Users\Amjad\Desktop\league\league\obj\Debug\net6.0\league.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amjad\Desktop\league\league\obj\Debug\net6.0\league.AssemblyInfoInputs.cache
+C:\Users\Amjad\Desktop\league\league\obj\Debug\net6.0\league.AssemblyInfo.cs
+C:\Users\Amjad\Desktop\league\league\obj\Debug\net6.0\league.csproj.CoreCompileInputs.cache
+C:\Users\Amjad\Desktop\league\league\bin\Debug\net6.0\league.exe
+C:\Users\Amjad\Desktop\league\league\bin\Debug\net6.0\league.deps.json
+C:\Users\Amjad\Desktop\league\league\bin\Debug\net6.0\league.runtimeconfig.json
+C:\Users\Amjad\Desktop\league\league\bin\Debug\net6.0\league.dll
+C:\Users\Amjad\Desktop\league\league\bin\Debug\net6.0\ref\league.dll
+C:\Users\Amjad\Desktop\league\league\bin\Debug\net6.0\league.pdb
+C:\Users\Amjad\Desktop\league\league\obj\Debug\net6.0\league.dll
+C:\Users\Amjad\Desktop\league\league\obj\Debug\net6.0\ref\league.dll
+C:\Users\Amjad\Desktop\league\league\obj\Debug\net6.0\league.pdb
+C:\Users\Amjad\Desktop\league\league\obj\Debug\net6.0\league.genruntimeconfig.cache
